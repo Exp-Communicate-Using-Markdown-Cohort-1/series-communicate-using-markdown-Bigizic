@@ -1,1 +1,3 @@
-# Above your new content
+# Github cat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
